@@ -1,4 +1,4 @@
-# Mail-lient-server
+# Mail-client-server
 Borland C++ Builder 6 IDE, CORBA
 <br>Почтовые клиент и сервер, взаимодействующие на основе технологии СORBA.
 <br>Клиент позволять отсылать и получать сообщения с сервера.
