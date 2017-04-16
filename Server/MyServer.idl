@@ -1,0 +1,9 @@
+module Server{
+  interface MyServer{
+     long Entrance(in string UserName);
+     void Send_Message(in string UserName, in string Addressee, in string Message);
+     string View_Message(in string UserName);
+     void Del_Message (in string UserName, in string MSender, in string Message);
+     void Exit(in string UserName);
+   };
+};
